@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I am Anupam Pathi ✨! 
+### I am Anupam Pathi ✨! 
 
 
 🔭 I’m currently working on creation of ETL microservices with django rest api and mostly tinkering with rashberry pi in free time.\
